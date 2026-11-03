@@ -1,0 +1,8 @@
+# Database connection settings - change to match your local PostgreSQL setup
+DB_CONFIG = {
+    "host": "localhost",
+    "port": 5432,
+    "dbname": "phonebook",
+    "user": "postgres",
+    "password": "your_password",
+}
